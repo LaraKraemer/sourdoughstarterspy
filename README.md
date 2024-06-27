@@ -15,6 +15,14 @@ My final goal is to to send the data to a website and visualise the ideal state 
 * female-male jumper 
 * led light
 
+<p align="center">
+<a>
+  <img height="60" src="images/image_one.png" HSPACE="50"/>
+</a>
+<a>
+  <img height="60" src="images/image_two.png" HSPACE="50"/>
+</a>
+
 
 ### Install Microcontroller
 
@@ -34,9 +42,9 @@ My final goal is to to send the data to a website and visualise the ideal state 
 7. Run venv: `source venv/bin/activate`
 
 
-### Requirements 
+## Requirements 
 
-## Package manager
+### Package manager
 Micropython has its own package manager `mip` 
 
 ```bash

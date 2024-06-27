@@ -15,13 +15,14 @@ My final goal is to to send the data to a website and visualise the ideal state 
 * female-male jumper 
 * led light
 
+
+<h4 align="left"> First prototype version on breadboard</h4>
+<img height="200" src="images/img_one.png" HSPACE="100"/>
+
+<h4 align="left"> Second prototype version in sour-dough proofer box</h4>
 <p align="center">
-<a>
-  <img height="60" src="images/image_one.png" HSPACE="50"/>
-</a>
-<a>
-  <img height="60" src="images/image_two.png" HSPACE="50"/>
-</a>
+  <img height="200" src="images/image_two.png" HSPACE="100"/>
+
 
 
 ### Install Microcontroller
@@ -29,6 +30,7 @@ My final goal is to to send the data to a website and visualise the ideal state 
 1. Download micropython firmware (.bin folder)
 2. Connect Esp32 to computer (while connecting hold boot button. This will reset microcontroller)
 3. [Flash Micropython on devise](https://electrocredible.com/micropython-on-esp32-thonny-example/)
+
 
 
 ### Setup IDE

@@ -17,11 +17,11 @@ My final goal is to to send the data to a website and visualise the ideal state 
 
 
 <h4 align="left"> First prototype version on breadboard</h4>
-<img height="200" src="images/img_one.png" HSPACE="100"/>
+<img height="400" src="images/img_one.png" HSPACE="50"/>
 
 <h4 align="left"> Second prototype version in sour-dough proofer box</h4>
-<p align="center">
-  <img height="200" src="images/image_two.png" HSPACE="100"/>
+<p align="left">
+  <img height="400" src="images/image_two.png" HSPACE="50" />
 
 
 
